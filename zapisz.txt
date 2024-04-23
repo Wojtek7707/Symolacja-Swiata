@@ -1,0 +1,2 @@
+10 10;
+Czlowiek;5;5;Antylopa;0;0
